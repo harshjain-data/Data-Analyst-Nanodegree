@@ -1,2 +1,2 @@
 # Data-Analyst-Nanodegree
- Repository for Data Analyst Nanodegree by Udacity
+  Repository for my projects of Data Analyst Nanodegree (Udacity)
